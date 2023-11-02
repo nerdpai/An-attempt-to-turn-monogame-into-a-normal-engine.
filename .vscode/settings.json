@@ -1,0 +1,7 @@
+{
+    "dotnet.defaultSolution": "Engine.sln",
+    "[csharp]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "csharpier.csharpier-vscode"
+    },
+}
